@@ -1,0 +1,22 @@
+.content{
+    background: darkgray;
+    border: gray 4px solid;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+body{
+    background: azure;
+    margin: 0;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+}
+table{
+    min-width: 300px;
+    border: gray solid 2px;
+    margin-bottom: 20px;
+}
+td{
+    border: gray solid 2px;
+}
